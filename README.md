@@ -9,20 +9,7 @@
 
  ........
 
-<p align="center">
-   ╱|、
-</p>
-<p align="center">
-(˚ˎ 。7  
-</p>
-<p align="center">
- |、˜〵 
-</p>
-<p align="center">
-じしˍ,)ノ
-</p>
-
- ╱|、
+  ╱|、
 (˚ˎ 。7  
  |、˜〵          
 じしˍ,)ノ
