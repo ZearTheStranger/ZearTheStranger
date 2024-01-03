@@ -10,6 +10,7 @@
  ........
 
   ╱|、
+  
 (˚ˎ 。7  
  |、˜〵          
 じしˍ,)ノ
@@ -36,7 +37,6 @@
 ✩ ᵕ̈ ིྀ ! YEAH •˙ 🦢 ⌗ ⊱
 
 
-    ∧＿∧
 　 (｡･ω･｡)つ━☆・*。
   ⊂/　 /　   ・゜
 　しーＪ　　　     °。+ * 。　
@@ -93,4 +93,47 @@
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦　　　.　　. 　 ˚　.　　　　 　　 　　　　        ੈ✧̣̇˳·˖✶   ✦　　
    ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
+
+
+
+
+<p align="center">
+  <img src="https://github.com/ZearTheStranger/images/blob/main/zeldaall.gif" alt="Texto alternativo">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/ZearTheStranger/images/blob/main/sonic%20team.gif" alt="Texto alternativo">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/ZearTheStranger/images/blob/main/sonic%20superstars.gif" alt="Texto alternativo">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/ZearTheStranger/images/blob/main/sonic%20black%20gif.gif" alt="Texto alternativo">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/ZearTheStranger/images/blob/main/red%20vs%20gold%20mount%20silver.gif" alt="Texto alternativo">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/ZearTheStranger/images/blob/main/legend%20of%20zelda.gif" alt="Texto alternativo">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/ZearTheStranger/images/blob/main/game%20boy%20advance.gif" alt="Texto alternativo">
+</p>
+
 
